@@ -20,6 +20,7 @@ local OnOff = clusters.OnOff
 
 local SAP_FINGERPRINTS = {
   { mfr = "IKEA of Sweden", model = "STARKVIND Air purifier table" },
+  { mfr = "IKEA of Sweden", model = "STARKVIND Air purifier" },
 }
 
 local is_sap = function(opts, driver, device)

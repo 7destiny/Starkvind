@@ -23,6 +23,7 @@ local devices = {
   STARKVIND_FAN = {
     FINGERPRINTS = {
 	  { mfr = "IKEA of Sweden", model = "STARKVIND Air purifier table" },
+	  { mfr = "IKEA of Sweden", model = "STARKVIND Air purifier" },
     },
     CONFIGURATION = {
       {
