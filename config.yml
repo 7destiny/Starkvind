@@ -1,0 +1,5 @@
+name: 'Starkvind'
+packageKey: 'starkvind-air-purifier'
+description: 'IKEA Starkvind Air purifier controller'
+permissions:
+  zigbee: {}
