@@ -1,6 +1,6 @@
 zigbeeManufacturer:
   # E3007
-  - id: "Starkvind Air purifier"
+  - id: "Starkvind Air purifier Table"
     deviceLabel: Starkvind
     manufacturer: IKEA of Sweden
     model: STARKVIND Air purifier table
